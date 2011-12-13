@@ -34,7 +34,7 @@
 			<key>end</key>
 			<string>\}?\}\}</string>
 			<key>name</key>
-			<string>source.mustache.embedded.html</string>
+			<string>meta.tag.template.mustache</string>
 		</dict>
 		<dict>
 			<key>include</key>
