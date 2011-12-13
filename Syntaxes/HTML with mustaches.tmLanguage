@@ -18,8 +18,10 @@
 		|^\s*--&gt;
 		|(^|\s)\}
 		)</string>
+	<key>keyEquivalent</key>
+	<string>^~H</string>
 	<key>name</key>
-	<string>HTML with mustaches</string>
+	<string>HTML (Mustache)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
