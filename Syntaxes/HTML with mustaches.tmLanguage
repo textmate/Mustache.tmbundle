@@ -5,6 +5,8 @@
 	<key>fileTypes</key>
 	<array>
 		<string>mustache</string>
+		<string>handlebars</string>
+		<string>hbs</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~H</string>
